@@ -1,0 +1,7 @@
+{
+  "name": "Calculator",
+  "description": "High-performance glassmorphic suite featuring a calculator, AI skin analysis, and progress tracking.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
